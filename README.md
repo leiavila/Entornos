@@ -4,7 +4,7 @@
 - [x] 2. Práctica CSS.
 - [x] 3. Desarrollo WEB.
 - [x] 4. PHP.
-- [ ] 5. PHP.
-- [ ] 6. PHP y bases de datos.
-- [ ] 7. PHP: Sesiones y cookies.
-- [ ] 8. Accesibilidad y Usabilidad.
+- [x] 5. PHP.
+- [x] 6. PHP y bases de datos.
+- [x] 7. PHP: Sesiones y cookies.
+- [x] 8. Accesibilidad y Usabilidad.
